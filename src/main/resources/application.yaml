@@ -1,3 +1,5 @@
 spring:
   application:
     name: hellocd
+  server:
+    port: 80
